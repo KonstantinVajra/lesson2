@@ -1,3 +1,2 @@
-print('Hello world')
-print('test')
-print('демонстрация')
+a = 3
+
